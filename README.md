@@ -9,7 +9,7 @@ Find your contacts2.db and copy it to your computer
 [root]/data/data/com.android.providers.contacts/databases/contacts2.db
 ```
 
-run the script
+Run the script
 ```sh
 python contacts.py path/to/your/contacts2.db output.csv
 ```
